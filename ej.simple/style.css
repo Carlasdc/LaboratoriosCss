@@ -1,0 +1,28 @@
+html {
+    background-color: #CFC;
+}
+
+body {
+    color: blue;
+    font-family: Georgia, serif;
+    size: 16px;
+}
+
+h1 {
+    color: #F00;
+    font-family: Verdana, sans-serif;
+    size: 32px;
+}
+h2{
+    color: #A00;
+    font-family: Verdana, sans-serif;
+    size: 24px;
+}
+strong.str{
+    size: 20px;
+}
+span.subray{
+    background-color: #000;
+    color:#FFF;
+    font-style: italic;
+}
